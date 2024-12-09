@@ -4,18 +4,18 @@
 
 This plugin allows [QuickLook](https://github.com/QL-Win/QuickLook) to preview Office file formats, without the requirement of installing Office suite.
 
+## Trial Version
+
+> [!IMPORTANT]
+>
+> This plugin is a trial version without a license key, intended solely for experiencing the latest version of [Syncfusion](https://www.syncfusion.com/products/wpf). If you like it, you can purchase a license key and refer to [here](https://github.com/QL-Win/QuickLook.Plugin.OfficeViewer) to compile your own version of the plugin.
+
 ## Download and Installation
 
 1. Go to [Release page](https://github.com/QL-Win/QuickLook.Plugin.OfficeViewer/releases) and download the latest version.
 2. Make sure that you have QuickLook running in the background. Go to your Download folder, and press <key>Spacebar</key> on the downloaded `.qlplugin` file.
 3. Click the “Install” button in the popup window.
 4. Restart QuickLook.
-
-## Development
-
-This plugin uses [Syncfusion](https://www.syncfusion.com/products/wpf) components to render Office file formats. These components are **NOT FREEWARE**. If you want to develop on this project and distribute it among users, **YOU MUST OBTAIN A LICENSE FROM SYNCFUSION.** Specifically, Syncfusion provides [Open Source Project License](https://www.syncfusion.com/sales/speciallicensingprograms)  for open-source project, which is free.
-
-After you have obtained a license, you should get your license key, insert it into `SyncfusionKey.Example.cs`, then rename the file to `SyncfusionKey.cs`.
 
 ## License
 
